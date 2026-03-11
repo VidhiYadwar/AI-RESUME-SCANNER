@@ -41,7 +41,36 @@ Dashboard showing resume ranking and analytics.
 <img width="1825" height="842" alt="image" src="https://github.com/user-attachments/assets/6da391c2-809c-465f-9471-c568b7c45793" />
 <img width="1914" height="823" alt="image" src="https://github.com/user-attachments/assets/9fd8cac9-cf48-4c8f-8db7-0644958bcd43" />
 
+## Project Structure
 
+AI-RESUME-SCANNER
+│
+├── app.py
+├── requirements.txt
+└── README.md
+
+## Installation
+
+Clone the repository
+
+git clone https://github.com/VidhiYadwar/AI-RESUME-SCANNER.git
+
+Install dependencies
+
+pip install -r requirements.txt
+
+Run the app
+
+streamlit run app.py
+
+## Future Improvements
+
+- Resume database
+- Authentication system
+- AI resume improvement suggestions
+- Advanced recruiter dashboard
+- React + FastAPI full stack version
+  
 
 
 
