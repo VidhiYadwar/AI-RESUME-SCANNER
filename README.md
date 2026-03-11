@@ -1,7 +1,5 @@
 # AI Resume Scanner
 
-# AI Resume Scanner
-
 ![Python](https://img.shields.io/badge/Python-3.10-blue)
 ![Streamlit](https://img.shields.io/badge/Framework-Streamlit-red)
 ![AI](https://img.shields.io/badge/AI-NLP-green)
