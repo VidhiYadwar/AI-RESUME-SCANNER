@@ -34,6 +34,16 @@ pip install -r requirements.txt
 2. Run the project
 
 streamlit run app.py
+## Project Interface
+
+Dashboard showing resume ranking and analytics.
+<img width="1856" height="886" alt="image" src="https://github.com/user-attachments/assets/dc13eecf-7f70-4f13-a41f-98332b035d3a" />
+<img width="1825" height="842" alt="image" src="https://github.com/user-attachments/assets/6da391c2-809c-465f-9471-c568b7c45793" />
+<img width="1914" height="823" alt="image" src="https://github.com/user-attachments/assets/9fd8cac9-cf48-4c8f-8db7-0644958bcd43" />
+
+
+
+
 
 ## Project Goal
 
